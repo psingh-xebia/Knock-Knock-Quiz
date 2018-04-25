@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Knock-Knock-Quiz\Knock-Knock-Quiz.App.csproj" />
+    <ProjectReference Include="..\Knock-Knock-Quiz.App\Knock-Knock-Quiz.App.csproj" />
   </ItemGroup>
 
 </Project>
