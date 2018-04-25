@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knock-Knock-Quiz.App", "Knock-Knock-Quiz\Knock-Knock-Quiz.App.csproj", "{C84D7E74-31AD-45B0-A1E2-C824EA22391C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knock-Knock-Quiz.App", "Knock-Knock-Quiz.App\Knock-Knock-Quiz.App.csproj", "{C84D7E74-31AD-45B0-A1E2-C824EA22391C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knock-Knock-Quiz.Test", "Knock-Knock-Quiz.Test\Knock-Knock-Quiz.Test.csproj", "{F1FD1792-0F6B-4B49-B576-1D7BC20CE8A0}"
 EndProject
